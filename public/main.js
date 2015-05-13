@@ -1,0 +1,1 @@
+/* Starts the application for the browser */
